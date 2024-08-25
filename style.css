@@ -1,0 +1,67 @@
+.jumbotron {
+    padding-top: 8rem ;
+    background-color: #7ea5c0;
+}
+#Projects {
+    background-color: #7ea5c0;
+}
+#My-Sertification {
+    background-color: #fffff;
+}
+.btn-primary {
+    background-color: #1e3046;
+    border-color: #1e3046;
+}.bg-primary {
+    background-color: #1e3046 !important;
+}
+
+.bg-primary .text-white {
+    color: #ffffff; /* Jika ingin memastikan teks tetap putih */
+}
+
+.bg-primary a {
+    color: #ffffff; /* Jika ingin memastikan link tetap putih */
+}
+
+.bg-primary {
+    background-color: #1e3046 !important; /* Warna biru gelap */
+}
+
+.bg-primary .text-white {
+    color: #ffffff !important; /* Memastikan teks tetap putih */
+}
+
+.bg-primary a {
+    color: #ffffff !important; /* Memastikan link tetap putih */
+}
+
+.bg-primary a:hover {
+    color: #cccccc !important; /* Warna link saat di-hover */
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    background-color: #162233 !important; /* Warna saat button di-hover, gelap sedikit */
+    border-color: #141e2c !important; /* Border saat button di-hover, gelap sedikit */
+}
+.btn-primary {
+    background-color: #162233 !important; /* Warna background baru */
+    border-color: #162233!important; /* Warna border baru */
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    background-color: #162233!important; /* Warna background saat di-hover, fokus, atau aktif */
+    border-color: #162233 !important; /* Warna border saat di-hover, fokus, atau aktif */
+}
+
+
+
+section{
+    padding-top: 4rem;
+}
+.carousel-control-next-icon {
+    background-color: black;
+  }
+
+  :root {
+    --primary-color: #1e3046;
+}
